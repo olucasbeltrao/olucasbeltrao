@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Lucas Beltrão
 
-<!--
-**olucasbeltrao/olucasbeltrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Java FullStack`**
 
-Here are some ideas to get you started:
+Eaí! Prazer, eu sou o Lucas Beltrão.
+Tenho 23 anos, sou de São Paulo/SP e atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac Santo Amaro. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou no começo da minha jornada na programação, mas sempre buscando aprender e evoluir, principalmente com foco na linguagem de programação Java e todas suas ferramentas. Sou alguém curioso quando se trata de tecnologia, adoro entender como as coisas funcionam por trás do código e resolver problemas.
+
+No meu GitHub você vai alguns projetos, estudos e alguns experimentos enquanto vou ganhando mais experiência! 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-beltr%C3%A3o/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olucasbeltrao?igsh=bnVrbmtmNGR5Mmxz)
+---
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+<br />
+
+
+
+
+
