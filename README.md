@@ -7,7 +7,7 @@ Tenho 23 anos, sou de São Paulo/SP e atualmente estou estudando Análise e Dese
 
 Estou no começo da minha jornada na programação, mas sempre buscando aprender e evoluir, principalmente com foco na linguagem de programação Java e todas suas ferramentas. Sou alguém curioso quando se trata de tecnologia, adoro entender como as coisas funcionam por trás do código e resolver problemas.
 
-No meu GitHub você vai alguns projetos, estudos e alguns experimentos enquanto vou ganhando mais experiência! 
+No meu GitHub você vai encontrar alguns projetos, estudos e alguns experimentos enquanto vou ganhando mais experiência! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-beltr%C3%A3o/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olucasbeltrao?igsh=bnVrbmtmNGR5Mmxz)
